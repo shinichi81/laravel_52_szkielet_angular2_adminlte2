@@ -1,0 +1,25 @@
+{
+  "name": "agrosza",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Karol <info@nepras.pl>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "AdminLTE": "admin-lte#~2.3.2",
+    "components-font-awesome": "~4.5.0",
+    "Ionicons": "ionicons#~2.0.1",
+    "html5shiv": "~3.7.3",
+    "respond": "https://github.com/scottjehl/Respond.git#~1.4.2"
+  }
+}
