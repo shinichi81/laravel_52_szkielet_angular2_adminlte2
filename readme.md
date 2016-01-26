@@ -12,6 +12,7 @@ Panel AdminLte 2.3.2 dla frameworka PHP Laravel 5.2.
 - npm update
 - npm install -g gulp
 - npm install -g bower
+- bower install
 - gulp && gulp watch
 - włączyć tryb developer w przeglądarce do czyszczenia cache dla widoków angular 2
 
