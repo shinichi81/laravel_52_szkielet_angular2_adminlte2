@@ -6,6 +6,8 @@ Panel AdminLte 2.3.2 dla frameworka PHP Laravel 5.2.
 
 ## Rozpoczęcie działania
 - git clone https://github.com/nepras/laravel_52_szkielet_angular2_adminlte2.git
+- composer install
+- composer update
 - npm install
 - npm update
 - npm install -g gulp
